@@ -1,7 +1,7 @@
 # Implementación y Escala con K8S
 
 ## Resumen
-Kubernetes es una gran herramienta para gestionar aplicaciones e implementar una variedad de mejores prácticas de DevOps. Una de sus fortalezas es su capacidad para administrar implementaciones y escalado de aplicaciones. En esta charla, profundizaremos en cómo se ve implementar y escalar aplicaciones en un clúster de Kubernetes. Hablaremos sobre qué son las implementaciones de Kubernetes y su funcionalidad de actualización continua. También hablaremos sobre cómo puede escalar hacia arriba y hacia abajo fácilmente con las implementaciones.
+Kubernetes es una gran herramienta para gestionar aplicaciones e implementar una variedad de mejores prácticas de DevOps. Una de sus fortalezas es su capacidad para administrar implementaciones y escalado de aplicaciones. Veremos cómo se ve implementar y escalar aplicaciones en un clúster de Kubernetes con lo qué son las implementaciones de Kubernetes y su funcionalidad de actualización continua y de cómo puede escalar hacia arriba y hacia abajo fácilmente con las implementaciones.
 
 ## Integrantes
 ```
